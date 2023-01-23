@@ -4,6 +4,8 @@ The github for this file is:
 
 https://github.com/itamames/Quiz1Practice
 
+Answers will be posted in less than 24 hours.
+
 ## Question 1: 
 Strings d1 and d2 have n characters each and n ≥ 0.
 
